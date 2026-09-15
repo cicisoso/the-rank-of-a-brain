@@ -2,6 +2,8 @@
 
 Code, derived connectivity matrices, spectra and figures for the manuscript *"The rank of a brain: cell types set the dimensionality of the fly connectome, and sex adds a low-rank patch"* (Liu, Zong, Chen and Xiong; School of Information Technology, Zhejiang Financial College; submitted to *Cell Systems* as a Report).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22760814.svg)](https://doi.org/10.5281/zenodo.22760814)
+
 We measure the singular value spectra of two complete *Drosophila* connectomes, the MaleCNS v1.0 male central nervous system (164,606 neurons) and the FlyWire v783 female brain (139,255 neurons), against degree-preserving, weight-shuffled and Erdős–Rényi null models. Both have an effective rank (participation ratio) near one thousand; the leading modes are local circuits; the rank grows with size as N^0.8; a block model constant within cell-type pairs explains two-thirds of the connectivity and the cell-type matrix has the spectrum of a degree-matched random graph; male and female brains share their leading dimensions; and the 1,365 male-specific neurons form a patch of effective rank about 100 that lies inside the shared subspace.
 
 ## Contents
@@ -41,7 +43,7 @@ export OPENBLAS_NUM_THREADS=2      # the spectrum jobs are run as one process pe
 
 ## Citation
 
-Please cite the paper (reference to be added on publication) and the Zenodo archive of this repository (DOI to be added), together with the MaleCNS (Berg et al., 2026) and FlyWire (Dorkenwald et al., 2024; Schlegel et al., 2024) connectome papers.
+Please cite the paper (reference to be added on publication) and the Zenodo archive of this repository (https://doi.org/10.5281/zenodo.22760814), together with the MaleCNS (Berg et al., 2026) and FlyWire (Dorkenwald et al., 2024; Schlegel et al., 2024) connectome papers.
 
 ## License
 
