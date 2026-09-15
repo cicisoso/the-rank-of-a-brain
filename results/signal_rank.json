@@ -1,0 +1,250 @@
+{
+ "female_brain|count": {
+  "null_config": {
+   "edge": 2968.0513875004212,
+   "n_above": 4,
+   "excess_energy_topk": 0.18806638048314225,
+   "sigma1_ratio": 1.2091676798512927
+  },
+  "null_wshuf": {
+   "edge": 2409.97468878003,
+   "n_above": 10,
+   "excess_energy_topk": 0.28598230631928556,
+   "sigma1_ratio": 1.489174067516884
+  },
+  "null_er": {
+   "edge": 2408.4886702640715,
+   "n_above": 10,
+   "excess_energy_topk": 0.39639617636876545,
+   "sigma1_ratio": 1.4900928761727592
+  }
+ },
+ "female_brain|signed_norm": {
+  "null_config": {
+   "edge": 8.824905934174515,
+   "n_above": 9,
+   "excess_energy_topk": 0.13662634302780235,
+   "sigma1_ratio": 2.265256752079795
+  },
+  "null_wshuf": {
+   "edge": 18.641993027590008,
+   "n_above": 1,
+   "excess_energy_topk": 0.014775914300255133,
+   "sigma1_ratio": 1.072346595359832
+  },
+  "null_er": {
+   "edge": 1.1197750352783198,
+   "n_above": 2000,
+   "excess_energy_topk": 0.28404284408313796,
+   "sigma1_ratio": 17.852405281467266
+  }
+ },
+ "female_central|count": {
+  "null_config": {
+   "edge": 2463.853077025314,
+   "n_above": 4,
+   "excess_energy_topk": 0.2311465865126826,
+   "sigma1_ratio": 1.29244978275641
+  },
+  "null_wshuf": {
+   "edge": 1726.6976258624118,
+   "n_above": 18,
+   "excess_energy_topk": 0.32792539351057,
+   "sigma1_ratio": 1.8442177289463781
+  },
+  "null_er": {
+   "edge": 1314.2542924157406,
+   "n_above": 45,
+   "excess_energy_topk": 0.5216431790143776,
+   "sigma1_ratio": 2.422975821742837
+  }
+ },
+ "female_optic|count": {
+  "null_config": {
+   "edge": 2952.8767776399145,
+   "n_above": 3,
+   "excess_energy_topk": 0.07908648040005786,
+   "sigma1_ratio": 1.2132973253724362
+  },
+  "null_wshuf": {
+   "edge": 2407.4232211382873,
+   "n_above": 5,
+   "excess_energy_topk": 0.14647932903321023,
+   "sigma1_ratio": 1.4881959536682094
+  },
+  "null_er": {
+   "edge": 2407.550934884614,
+   "n_above": 5,
+   "excess_energy_topk": 0.2680165608876068,
+   "sigma1_ratio": 1.4881170090952174
+  }
+ },
+ "male_brain|count": {
+  "null_config": {
+   "edge": 3691.419618841207,
+   "n_above": 12,
+   "excess_energy_topk": 0.24467045788494005,
+   "sigma1_ratio": 1.7587190305810119
+  },
+  "null_wshuf": {
+   "edge": 2645.8413139979766,
+   "n_above": 31,
+   "excess_energy_topk": 0.3430260156613212,
+   "sigma1_ratio": 2.453726116970407
+  },
+  "null_er": {
+   "edge": 2593.800321965223,
+   "n_above": 33,
+   "excess_energy_topk": 0.43563659128677656,
+   "sigma1_ratio": 2.502956715109538
+  }
+ },
+ "male_central|count": {
+  "null_config": {
+   "edge": 3718.9130567229427,
+   "n_above": 7,
+   "excess_energy_topk": 0.27221390515175914,
+   "sigma1_ratio": 1.7457106780494733
+  },
+  "null_wshuf": {
+   "edge": 2773.684257980302,
+   "n_above": 19,
+   "excess_energy_topk": 0.3755581045939267,
+   "sigma1_ratio": 2.3406219418017673
+  },
+  "null_er": {
+   "edge": 1889.5246258185043,
+   "n_above": 60,
+   "excess_energy_topk": 0.530686692277532,
+   "sigma1_ratio": 3.4358621979041843
+  }
+ },
+ "male_cns|count": {
+  "null_config": {
+   "edge": 3677.0583052475536,
+   "n_above": 13,
+   "excess_energy_topk": 0.24955565678252703,
+   "sigma1_ratio": 1.765588224819453
+  },
+  "null_wshuf": {
+   "edge": 2631.116496142163,
+   "n_above": 41,
+   "excess_energy_topk": 0.32924766469101713,
+   "sigma1_ratio": 2.4674585314784454
+  },
+  "null_er": {
+   "edge": 2615.6366595130226,
+   "n_above": 42,
+   "excess_energy_topk": 0.4144208157404061,
+   "sigma1_ratio": 2.48206142168399
+  }
+ },
+ "male_cns|signed_norm": {
+  "null_config": {
+   "edge": 6.248149767997797,
+   "n_above": 11,
+   "excess_energy_topk": 0.12693820621729293,
+   "sigma1_ratio": 2.0604380598423084
+  },
+  "null_wshuf": {
+   "edge": 11.950702419973656,
+   "n_above": 1,
+   "excess_energy_topk": 0.028523696965818753,
+   "sigma1_ratio": 1.0772526277669567
+  },
+  "null_er": {
+   "edge": 0.9477825331005962,
+   "n_above": 2000,
+   "excess_energy_topk": 0.24950346195893303,
+   "sigma1_ratio": 13.583206206028626
+  }
+ },
+ "male_optic|count": {
+  "null_config": {
+   "edge": 3674.496591904423,
+   "n_above": 4,
+   "excess_energy_topk": 0.1322896662184706,
+   "sigma1_ratio": 1.1883459245788595
+  },
+  "null_wshuf": {
+   "edge": 2592.9400222922864,
+   "n_above": 6,
+   "excess_energy_topk": 0.17025638613456875,
+   "sigma1_ratio": 1.6840239312624998
+  },
+  "null_er": {
+   "edge": 2594.2807661043444,
+   "n_above": 6,
+   "excess_energy_topk": 0.3004707669643836,
+   "sigma1_ratio": 1.6831536150289226
+  }
+ },
+ "male_vnc|count": {
+  "null_config": {
+   "edge": 2117.000728384078,
+   "n_above": 18,
+   "excess_energy_topk": 0.29483689429430743,
+   "sigma1_ratio": 1.7160101813437627
+  },
+  "null_wshuf": {
+   "edge": 1711.1235528858467,
+   "n_above": 37,
+   "excess_energy_topk": 0.4128441637586008,
+   "sigma1_ratio": 2.123046461310437
+  },
+  "null_er": {
+   "edge": 1123.9963539554344,
+   "n_above": 114,
+   "excess_energy_topk": 0.5692857188992061,
+   "sigma1_ratio": 3.2320343309256647
+  }
+ },
+ "male_cns_types|count": {
+  "null_config": {
+   "edge": 534381.3343958453,
+   "n_above": 1,
+   "excess_energy": 0.1228814998848351,
+   "sigma1_ratio": 1.1908778355615122
+  }
+ },
+ "male_cns_types|signed_norm": {
+  "null_config": {
+   "edge": 2.904243282759575,
+   "n_above": 1,
+   "excess_energy": 0.024499507349154275,
+   "sigma1_ratio": 1.0098653222937843
+  }
+ },
+ "male_brain_types|count": {
+  "null_config": {
+   "edge": 533910.0649642298,
+   "n_above": 1,
+   "excess_energy": 0.12228087640620892,
+   "sigma1_ratio": 1.191928692915587
+  }
+ },
+ "male_brain_types|signed_norm": {
+  "null_config": {
+   "edge": 2.911385649717538,
+   "n_above": 1,
+   "excess_energy": 0.016936843670740307,
+   "sigma1_ratio": 1.0073938317664832
+  }
+ },
+ "female_brain_types|count": {
+  "null_config": {
+   "edge": 305924.44282896136,
+   "n_above": 1,
+   "excess_energy": 0.1243785486959523,
+   "sigma1_ratio": 1.1930443924277923
+  }
+ },
+ "female_brain_types|signed_norm": {
+  "null_config": {
+   "edge": 4.466231715846257,
+   "n_above": 1,
+   "excess_energy": 0.008724059034456945,
+   "sigma1_ratio": 1.0159604774392463
+  }
+ }
+}

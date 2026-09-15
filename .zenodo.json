@@ -1,0 +1,13 @@
+{
+  "title": "The rank of a brain: cell types set the dimensionality of the fly connectome, and sex adds a low-rank patch (code, derived matrices and results)",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Liu, Hao", "affiliation": "School of Information Technology, Zhejiang Financial College"},
+    {"name": "Zong, Xiaojie", "affiliation": "School of Information Technology, Zhejiang Financial College"},
+    {"name": "Chen, Jie", "affiliation": "School of Information Technology, Zhejiang Financial College"},
+    {"name": "Xiong, Jianyu", "affiliation": "School of Information Technology, Zhejiang Financial College"}
+  ],
+  "keywords": ["connectome", "Drosophila", "singular value decomposition", "participation ratio", "low-rank", "sexual dimorphism", "MaleCNS", "FlyWire"],
+  "description": "Analysis code, derived sparse connectivity matrices, spectra and statistics (Table S1) for the manuscript 'The rank of a brain: cell types set the dimensionality of the fly connectome, and sex adds a low-rank patch', which measures the singular value spectra of the MaleCNS v1.0 and FlyWire v783 Drosophila connectomes."
+}

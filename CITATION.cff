@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the associated paper."
+title: "The rank of a brain: cell types set the dimensionality of the fly connectome, and sex adds a low-rank patch (code, derived matrices and results)"
+authors:
+  - family-names: Liu
+    given-names: Hao
+    email: liuhao@zfc.edu.cn
+    affiliation: School of Information Technology, Zhejiang Financial College
+  - family-names: Zong
+    given-names: Xiaojie
+    affiliation: School of Information Technology, Zhejiang Financial College
+  - family-names: Chen
+    given-names: Jie
+    affiliation: School of Information Technology, Zhejiang Financial College
+  - family-names: Xiong
+    given-names: Jianyu
+    affiliation: School of Information Technology, Zhejiang Financial College
+version: 1.0.0
+date-released: 2026-09-15
+license: MIT
+repository-code: https://github.com/cicisoso/the-rank-of-a-brain
+keywords:
+  - connectome
+  - Drosophila
+  - singular value decomposition
+  - participation ratio
+  - low-rank
+  - sexual dimorphism
