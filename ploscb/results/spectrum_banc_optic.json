@@ -1,0 +1,55 @@
+{
+ "banc_optic|count": {
+  "frob2": 104326746.0,
+  "sum_s4": 39111265240326.836,
+  "sum_s4_sem": 4205926848856.708,
+  "PR": 278.2847822505668,
+  "PR_over_N": 0.0034022224127460946,
+  "N": 81795,
+  "nnz": 541289,
+  "sigma_max": 2272.6208615615674,
+  "stable_rank": 20.199549504014904,
+  "energy_topk": 0.4807557658877395,
+  "k": 1200,
+  "rank_50": null,
+  "rank_80": null,
+  "rank_90": null,
+  "rank_95": null,
+  "null_config": {
+   "PR": 470.8103224886372,
+   "PR_over_N": 0.005755979246758814,
+   "sigma_max": 1574.678914329852,
+   "stable_rank": 42.27580961855155,
+   "n_above_edge": 2,
+   "rank_50": null,
+   "rank_80": null,
+   "rank_90": null,
+   "energy_topk": 0.38073422624690095,
+   "k": 800
+  },
+  "null_wshuf": {
+   "PR": 1353.5323902407836,
+   "PR_over_N": 0.016547862219460648,
+   "sigma_max": 884.2935495015226,
+   "stable_rank": 133.41441235509626,
+   "n_above_edge": 4,
+   "rank_50": null,
+   "rank_80": null,
+   "rank_90": null,
+   "energy_topk": 0.3572649154416648,
+   "k": 800
+  },
+  "null_er": {
+   "PR": 2018.5976796095022,
+   "PR_over_N": 0.024678741727605626,
+   "sigma_max": 883.2908362212934,
+   "stable_rank": 133.7215775068966,
+   "n_above_edge": 4,
+   "rank_50": null,
+   "rank_80": null,
+   "rank_90": null,
+   "energy_topk": 0.19508860811560538,
+   "k": 800
+  }
+ }
+}

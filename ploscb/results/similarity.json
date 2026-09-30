@@ -1,0 +1,130 @@
+{
+ "brain": {
+  "n_shared": 6652,
+  "within": {
+   "MaleCNS": 0.8179168163936242,
+   "FlyWire": 0.7719259981167829,
+   "BANC": 0.4386488574290557
+  },
+  "rows": [
+   {
+    "pair": "MaleCNS L vs R",
+    "kind": "within animal",
+    "r": 0.8179168163936242,
+    "r_corrected": null
+   },
+   {
+    "pair": "FlyWire L vs R",
+    "kind": "within animal",
+    "r": 0.7719259981167829,
+    "r_corrected": null
+   },
+   {
+    "pair": "BANC L vs R",
+    "kind": "within animal",
+    "r": 0.4386488574290557,
+    "r_corrected": null
+   },
+   {
+    "pair": "MaleCNS vs FlyWire (L)",
+    "kind": "different sex",
+    "r": 0.6443832312587444,
+    "r_corrected": 0.8109644705039591
+   },
+   {
+    "pair": "MaleCNS vs FlyWire (R)",
+    "kind": "different sex",
+    "r": 0.6504525431754136,
+    "r_corrected": 0.8186027765399655
+   },
+   {
+    "pair": "MaleCNS vs BANC (L)",
+    "kind": "different sex",
+    "r": 0.4003421224386606,
+    "r_corrected": 0.6683719531846128
+   },
+   {
+    "pair": "MaleCNS vs BANC (R)",
+    "kind": "different sex",
+    "r": 0.408307749097153,
+    "r_corrected": 0.6816705824061525
+   },
+   {
+    "pair": "FlyWire vs BANC (L)",
+    "kind": "same sex",
+    "r": 0.43948302777146797,
+    "r_corrected": 0.7552587624744764
+   },
+   {
+    "pair": "FlyWire vs BANC (R)",
+    "kind": "same sex",
+    "r": 0.456890117123032,
+    "r_corrected": 0.7851731298815865
+   }
+  ]
+ },
+ "vnc": {
+  "n_shared": 3232,
+  "within": {
+   "MaleCNS": 0.7232236935047788,
+   "MANC": 0.7574575855598784,
+   "BANC": 0.5112460625023579
+  },
+  "rows": [
+   {
+    "pair": "MaleCNS L vs R",
+    "kind": "within animal",
+    "r": 0.7232236935047788,
+    "r_corrected": null
+   },
+   {
+    "pair": "MANC L vs R",
+    "kind": "within animal",
+    "r": 0.7574575855598784,
+    "r_corrected": null
+   },
+   {
+    "pair": "BANC L vs R",
+    "kind": "within animal",
+    "r": 0.5112460625023579,
+    "r_corrected": null
+   },
+   {
+    "pair": "MaleCNS vs MANC (L)",
+    "kind": "same sex",
+    "r": 0.6353974327791976,
+    "r_corrected": 0.858479587930973
+   },
+   {
+    "pair": "MaleCNS vs MANC (R)",
+    "kind": "same sex",
+    "r": 0.626063837890253,
+    "r_corrected": 0.8458690543014482
+   },
+   {
+    "pair": "MaleCNS vs BANC (L)",
+    "kind": "different sex",
+    "r": 0.4154070226754768,
+    "r_corrected": 0.6831601470474403
+   },
+   {
+    "pair": "MaleCNS vs BANC (R)",
+    "kind": "different sex",
+    "r": 0.4314712159114624,
+    "r_corrected": 0.7095786137902808
+   },
+   {
+    "pair": "MANC vs BANC (L)",
+    "kind": "different sex",
+    "r": 0.4070374130263058,
+    "r_corrected": 0.6540940246552432
+   },
+   {
+    "pair": "MANC vs BANC (R)",
+    "kind": "different sex",
+    "r": 0.42136831833535976,
+    "r_corrected": 0.6771232579162813
+   }
+  ]
+ }
+}

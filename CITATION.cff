@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or these results, please cite the associated paper."
-title: "The rank of a brain: cell types set the dimensionality of the fly connectome, and sex adds a low-rank patch (code, derived matrices and results)"
+title: "Cell types set the effective rank of four complete Drosophila connectomes (code, derived matrices and results)"
 authors:
   - family-names: Liu
     given-names: Hao
@@ -15,14 +15,13 @@ authors:
   - family-names: Xiong
     given-names: Jianyu
     affiliation: School of Information Technology, Zhejiang Financial College
-version: 1.0.0
-date-released: 2026-09-15
+version: 2.0.0
+date-released: 2026-10-01
 license: MIT
-doi: 10.5281/zenodo.22760814
 identifiers:
   - type: doi
     value: 10.5281/zenodo.22760814
-    description: Zenodo archive of this repository
+    description: Zenodo archive of release v1.0.0 (earlier version of the manuscript)
 repository-code: https://github.com/cicisoso/the-rank-of-a-brain
 keywords:
   - connectome
@@ -31,3 +30,6 @@ keywords:
   - participation ratio
   - low-rank
   - sexual dimorphism
+  - FlyWire
+  - BANC
+  - MANC

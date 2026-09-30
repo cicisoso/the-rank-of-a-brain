@@ -1,0 +1,274 @@
+{
+ "MaleCNS-FlyWire L": {
+  "sigma": [
+   4.337956606373225,
+   2.92908768696411,
+   2.3063943081518277,
+   2.104417634803381,
+   1.9671263674987303
+  ],
+  "top_types": [
+   "lLN2F_b",
+   "ORN_VC3",
+   "ORN_VM5d",
+   "lLN2P_b",
+   "ORN_VC5",
+   "ORN_VM6l",
+   "ORN_DM5",
+   "ORN_VM6m",
+   "ORN_DL1",
+   "ORN_DC4",
+   "ORN_V",
+   "ORN_VC1",
+   "ORN_DC2",
+   "ORN_VM7d",
+   "ORN_VM7v",
+   "ORN_DA2",
+   "ORN_VM5v",
+   "ORN_DC3",
+   "ORN_DC1",
+   "ORN_VA6"
+  ],
+  "top_superclass": [
+   "cb_intrinsic",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_intrinsic",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory"
+  ],
+  "energy_share_top20": 0.7464988309328915,
+  "fru_top1pct": [
+   3,
+   67
+  ],
+  "fru_odds": 0.705983231707317,
+  "fru_p": 0.7982336758052897,
+  "dim_odds": 0.0,
+  "dim_p": 0.6315179122131409,
+  "superclass_of_top1pct": {
+   "cb_sensory": 58,
+   "cb_intrinsic": 9
+  }
+ },
+ "MaleCNS-FlyWire R": {
+  "sigma": [
+   4.526049754366479,
+   2.6305827912987216,
+   2.097255257135166,
+   2.0601495271466437,
+   1.864679252406557
+  ],
+  "top_types": [
+   "lLN2F_b",
+   "ORN_VA1v",
+   "ORN_VM7v",
+   "ORN_VC3",
+   "ORN_VM6l",
+   "ORN_DC4",
+   "ORN_VM5d",
+   "ORN_DA2",
+   "ORN_VM6m",
+   "ORN_VA7l",
+   "ORN_DC2",
+   "ORN_VM5v",
+   "ORN_VC5",
+   "ORN_VC2",
+   "ORN_VM7d",
+   "ORN_DC1",
+   "ORN_DL1",
+   "lLN2P_b",
+   "ORN_VA7m",
+   "ORN_VA6"
+  ],
+  "top_superclass": [
+   "cb_intrinsic",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_intrinsic",
+   "cb_sensory",
+   "cb_sensory"
+  ],
+  "energy_share_top20": 0.7776111324830176,
+  "fru_top1pct": [
+   5,
+   67
+  ],
+  "fru_odds": 1.2209440227703985,
+  "fru_p": 0.608278063270758,
+  "dim_odds": 0.0,
+  "dim_p": 0.6315179122131409,
+  "superclass_of_top1pct": {
+   "cb_sensory": 57,
+   "cb_intrinsic": 10
+  }
+ },
+ "MaleCNS-BANC L": {
+  "sigma": [
+   4.956737952568589,
+   2.6502763135945875,
+   2.5760619004038836,
+   2.5315767998198093,
+   2.3656962616821255
+  ],
+  "top_types": [
+   "lLN2F_b",
+   "ORN_DA1",
+   "ORN_DM3",
+   "ORN_VC5",
+   "ORN_DL3",
+   "ORN_VM6l",
+   "ORN_VM7v",
+   "ORN_DC4",
+   "ORN_VM7d",
+   "ORN_VM6m",
+   "ORN_VC3",
+   "ORN_DC3",
+   "ORN_DC1",
+   "ORN_V",
+   "ORN_VC2",
+   "ORN_DL2d",
+   "ORN_DA4m",
+   "ORN_VM5v",
+   "ORN_VC4",
+   "ORN_DC2"
+  ],
+  "top_superclass": [
+   "cb_intrinsic",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory"
+  ],
+  "energy_share_top20": 0.7600085818853666,
+  "fru_top1pct": [
+   4,
+   67
+  ],
+  "fru_odds": 0.9587456824620639,
+  "fru_p": 1.0,
+  "dim_odds": 0.0,
+  "dim_p": 0.6315179122131409,
+  "superclass_of_top1pct": {
+   "cb_sensory": 57,
+   "cb_intrinsic": 10
+  }
+ },
+ "MaleCNS-BANC R": {
+  "sigma": [
+   4.76913063467393,
+   2.9999786215259165,
+   2.9608781793215733,
+   2.663821526699131,
+   2.492560645437602
+  ],
+  "top_types": [
+   "lLN2F_b",
+   "ORN_VM6l",
+   "ORN_VM7d",
+   "ORN_VM6m",
+   "ORN_DC4",
+   "ORN_VM7v",
+   "ORN_DM4",
+   "ORN_DC3",
+   "ORN_VC3",
+   "ORN_VM4",
+   "ORN_DC1",
+   "ORN_VM5d",
+   "ORN_DC2",
+   "ORN_VM2",
+   "ORN_DM2",
+   "ORN_VA1d",
+   "ORN_DM5",
+   "ORN_V",
+   "ORN_VA2",
+   "ORN_DM1"
+  ],
+  "top_superclass": [
+   "cb_intrinsic",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory",
+   "cb_sensory"
+  ],
+  "energy_share_top20": 0.7721230986064859,
+  "fru_top1pct": [
+   4,
+   67
+  ],
+  "fru_odds": 0.9587456824620639,
+  "fru_p": 1.0,
+  "dim_odds": 0.0,
+  "dim_p": 0.6315179122131409,
+  "superclass_of_top1pct": {
+   "cb_sensory": 52,
+   "cb_intrinsic": 15
+  }
+ },
+ "agreement L": {
+  "cos_u": 0.9809316135882331,
+  "cos_v": 0.9351042313614046
+ },
+ "agreement R": {
+  "cos_u": 0.9933582761759486,
+  "cos_v": 0.8971770241013703
+ }
+}

@@ -8,3 +8,7 @@ figures/*.tiff
 figures/*.svg
 figures/*.alignment.*
 figures/*.collision-audit.*
+ploscb/results/modes_*.npz
+ploscb/results/*.log
+ploscb/figures/*.tif
+ploscb/qa/
