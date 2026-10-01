@@ -18,7 +18,14 @@ authors:
 version: 2.0.0
 date-released: 2026-10-01
 license: MIT
+doi: 10.5281/zenodo.23088621
 identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23088621
+    description: Zenodo archive of release v2.0.0 (PLOS Computational Biology submission)
+  - type: doi
+    value: 10.5281/zenodo.22760813
+    description: Zenodo concept DOI (all versions)
   - type: doi
     value: 10.5281/zenodo.22760814
     description: Zenodo archive of release v1.0.0 (earlier version of the manuscript)

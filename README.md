@@ -2,11 +2,13 @@
 
 Code, derived connectivity matrices, spectra and figures for the manuscript *"Cell types set the effective rank of four complete Drosophila connectomes"* (Liu, Zong, Chen and Xiong; School of Information Technology, Zhejiang Financial College; submitted to *PLOS Computational Biology*).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23088621.svg)](https://doi.org/10.5281/zenodo.23088621)
+
 We measure the singular value spectra of four complete *Drosophila* connectomes: MaleCNS v1.0 (male central nervous system, 164,606 neurons), FlyWire v783 (female brain, 139,255 neurons), BANC v888 (female brain and nerve cord, 146,404 neurons) and MANC v1.0 (male nerve cord, 23,193 traced neurons). Their effective ranks (participation ratios) are 1,112, 781, 845 and 461, which is 0.6–2.0% of the number of neurons and 2.4–4.5 times lower than in degree-preserving random networks. The leading modes are local circuits of a few hundred neurons, and the effective rank grows with the number of neurons. A block model that is constant within pairs of cell types split by side explains 42–71% of the connectivity, and the cell-type matrices have spectra comparable to those of degree-matched random graphs. On shared cell types, and after correction for each dataset's left–right reliability, the MaleCNS and FlyWire brains are about as similar as two female brains, apart from one mode in the olfactory input. Neurons present in only one sex take their inputs from dimensions that both sexes share.
 
 ## Versions
 
-- **v2.0.0** (this version, PLOS Computational Biology submission): adds `ploscb/`, which extends every analysis to BANC and MANC, recomputes all effective ranks with 1,024 Hutchinson probes, validates the estimators against exact SVD, tests thresholds and weightings, compares sex with individual variation in three brains and three nerve cords, and tests sex-specific neurons of both sexes against 50 matched random draws. It also holds the figures and S1 Table of the current manuscript.
+- **v2.0.0** (this version, https://doi.org/10.5281/zenodo.23088621; PLOS Computational Biology submission): adds `ploscb/`, which extends every analysis to BANC and MANC, recomputes all effective ranks with 1,024 Hutchinson probes, validates the estimators against exact SVD, tests thresholds and weightings, compares sex with individual variation in three brains and three nerve cords, and tests sex-specific neurons of both sexes against 50 matched random draws. It also holds the figures and S1 Table of the current manuscript.
 - **v1.0.0** (https://doi.org/10.5281/zenodo.22760814): the two-connectome analyses of an earlier version of the manuscript (the top-level scripts, `data/`, `results/`, `figures/`, `tables/`). They are kept unchanged because `ploscb/` reuses their matrices and spectra.
 
 Two statements of v1.0.0 were revised in v2.0.0. (i) The 48-probe participation ratios of `spectrum_main.py` have standard errors of 3–12% (the earlier manuscript stated below 1%); the current values are the 1,024-probe estimates in `ploscb/results/pr_table.json` (MaleCNS 1,112 ± 8, FlyWire 781 ± 5). (ii) With 50 matched random draws instead of 10, the lower effective rank of the male-specific patch is not significant (p = 0.06 for the brain, 0.08 for the CNS), and female-specific neurons show no such difference (`ploscb/results/patch_*.json`).
@@ -65,7 +67,7 @@ The scripts locate their inputs relative to their own file, so they can be run f
 
 ## Citation
 
-Please cite the paper (reference to be added on publication) and the Zenodo archive of the release you used, together with the connectome papers and data deposits: MaleCNS (Berg et al., 2026), FlyWire (Dorkenwald et al., 2024; Schlegel et al., 2024), BANC (Bates et al., 2026, and the Dataverse deposit https://doi.org/10.7910/DVN/7WTH1N) and MANC (Takemura et al., 2024; Marin et al., 2024).
+Please cite the paper (reference to be added on publication) and the Zenodo archive of the release you used (v2.0.0: https://doi.org/10.5281/zenodo.23088621; v1.0.0: https://doi.org/10.5281/zenodo.22760814; all versions: https://doi.org/10.5281/zenodo.22760813), together with the connectome papers and data deposits: MaleCNS (Berg et al., 2026), FlyWire (Dorkenwald et al., 2024; Schlegel et al., 2024), BANC (Bates et al., 2026, and the Dataverse deposit https://doi.org/10.7910/DVN/7WTH1N) and MANC (Takemura et al., 2024; Marin et al., 2024).
 
 ## License
 
